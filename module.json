@@ -37,11 +37,11 @@
       "flags": {}
     }
   ],
-  	"url": "https://https://github.com/xthesaintx/SOTD",
-	"manifest": "https://raw.githubusercontent.com/xthesaintx/SOTD/main/module.json",
-	"download": "https://github.com/xthesaintx/SOTD/archive/refs/tags/SOTD1.zip",
-	"bugs": "https://github.com/xthesaintx/SOTD/issues",
-	"readme": "https://github.com/xthesaintx/SOTD/blob/master/README.md",
+  "url": "https://github.com/xthesaintx/SOTD/",
+  "manifest": "https://raw.githubusercontent.com/xthesaintx/SOTD/main/module.json",
+  "download": "https://github.com/xthesaintx/SOTD/archive/refs/tags/SOTD.zip",
+  "readme": "https://github.com/xthesaintx/SOTD/blob/main/README.md",
+  "url": "https://github.com/xthesaintx/SOTD/",
   "packs": [
     {
       "name": "sotd-maps",
