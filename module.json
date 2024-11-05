@@ -37,7 +37,11 @@
       "flags": {}
     }
   ],
-  "url": "https://www.patreon.com/wgtngm",
+  	"url": "https://https://github.com/xthesaintx/SOTD",
+	"manifest": "https://raw.githubusercontent.com/xthesaintx/SOTD/main/module.json",
+	"download": "https://github.com/xthesaintx/SOTD/archive/refs/tags/SOTD1.zip",
+	"bugs": "https://github.com/xthesaintx/SOTD/issues",
+	"readme": "https://github.com/xthesaintx/SOTD/blob/master/README.md",
   "packs": [
     {
       "name": "sotd-maps",
@@ -51,9 +55,4 @@
       }
     }
   ]
-	"url": "https://https://github.com/xthesaintx/SOTD",
-	"manifest": "https://raw.githubusercontent.com/xthesaintx/SOTD/main/module.json",
-	"download": "https://github.com/xthesaintx/SOTD/archive/refs/tags/SOTD1.zip",
-	"bugs": "https://github.com/xthesaintx/SOTD/issues",
-	"readme": "https://github.com/xthesaintx/SOTD/blob/master/README.md"
 }
