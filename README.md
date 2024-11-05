@@ -20,5 +20,5 @@ The following modules are required:
 You will need to download and install the assets for the maps included in this module.
 Members can download the assets for free.
 
-https://www.patreon.com/c/wgtngm
+https://www.patreon.com/wgtngm
 
