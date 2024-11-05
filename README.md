@@ -23,7 +23,7 @@ Extract the zip file and copy the contents into your Foundry "Data" directory, w
 The zip file should extract to a directory named sotd, with sub-directories contain a "common" folder and specific map folder, example structure below.
 
 * **Foundry / foundryuserdata**
-    * DATA
+    * Data
         * **sotd**
             * **common**
             * **map title (eg. rowhouse)**
