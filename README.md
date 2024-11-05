@@ -22,14 +22,14 @@ You will need to download and install the assets for the maps included in this m
 Extract the zip file and copy the contents into your Foundry "Data" directory, where your worlds folder is.
 The zip file should extract to a directory named sotd, with sub-directories contain a "common" folder and specific map folder, example structure below.
 
-**Foundry / foundryuserdata**
-* DATA
-    * **sotd**
-        * **common**
-        * **map title (eg. rowhouse)**
-    * modules
-    * systems
-    * worlds
+* **Foundry / foundryuserdata**
+    * DATA
+        * **sotd**
+            * **common**
+            * **map title (eg. rowhouse)**
+        * modules
+        * systems
+        * worlds
 
 Patreon members can download the assets for free.
 
