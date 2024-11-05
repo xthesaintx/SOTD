@@ -1,7 +1,7 @@
 {
   "id": "shadow-of-the-dragon",
   "title": "Shadow of the Dragon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
