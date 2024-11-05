@@ -12,7 +12,7 @@ The following modules are required:
 
 ## Installing
 1. Start up Foundry and click "Install Module" in the "Add-on Modules" tab.
-2. Paste the following into the "Manifest URL" field: https://raw.githubusercontent.com/xthesaintx/SOTD/master/module.json
+2. Paste the following into the "Manifest URL" field: https://raw.githubusercontent.com/xthesaintx/SOTD/main/module.json
 3. Click "Install" and the module should download and appear in your modules list.
 4. Enjoy!
 
