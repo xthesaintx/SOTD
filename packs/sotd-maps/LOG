@@ -1,7 +1,15 @@
-2024/11/05-03:31:37.884968 7f17813ebb38 Recovering log #8
-2024/11/05-03:31:37.889356 7f17813ebb38 Delete type=0 #8
-2024/11/05-03:31:37.889397 7f17813ebb38 Delete type=3 #6
-2024/11/05-05:42:53.635457 7f127f475b38 Level-0 table #13: started
-2024/11/05-05:42:53.641799 7f127f475b38 Level-0 table #13: 31178 bytes OK
-2024/11/05-05:42:53.643230 7f127f475b38 Delete type=0 #11
-2024/11/05-05:42:53.643332 7f127f475b38 Manual compaction at level-0 from '!scenes!bXo1qrGsdCu5XpK3' @ 72057594037927935 : 1 .. '!scenes.walls!bXo1qrGsdCu5XpK3.zq6z4R64gpy7lURA' @ 0 : 0; will stop at (end)
+2024/11/05-19:56:21.064436 7f17823f1b38 Recovering log #12
+2024/11/05-19:56:21.070236 7f17823f1b38 Delete type=0 #12
+2024/11/05-19:56:21.070332 7f17823f1b38 Delete type=3 #10
+2024/11/05-20:57:14.163227 7f127f475b38 Level-0 table #17: started
+2024/11/05-20:57:14.170421 7f127f475b38 Level-0 table #17: 43114 bytes OK
+2024/11/05-20:57:14.172416 7f127f475b38 Delete type=0 #15
+2024/11/05-20:57:14.176426 7f127f475b38 Manual compaction at level-0 from '!scenes!3t1Hs0WZCVXwgNfc' @ 72057594037927935 : 1 .. '!scenes.walls!3t1Hs0WZCVXwgNfc.zq6z4R64gpy7lURA' @ 0 : 0; will stop at (end)
+2024/11/05-20:57:14.176507 7f127f475b38 Manual compaction at level-1 from '!scenes!3t1Hs0WZCVXwgNfc' @ 72057594037927935 : 1 .. '!scenes.walls!3t1Hs0WZCVXwgNfc.zq6z4R64gpy7lURA' @ 0 : 0; will stop at '!scenes.walls!bXo1qrGsdCu5XpK3.zq6z4R64gpy7lURA' @ 219 : 0
+2024/11/05-20:57:14.176514 7f127f475b38 Compacting 1@1 + 1@2 files
+2024/11/05-20:57:14.179512 7f127f475b38 Generated table #18@1: 166 keys, 36218 bytes
+2024/11/05-20:57:14.179526 7f127f475b38 Compacted 1@1 + 1@2 files => 36218 bytes
+2024/11/05-20:57:14.181035 7f127f475b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/05-20:57:14.181119 7f127f475b38 Delete type=2 #13
+2024/11/05-20:57:14.181181 7f127f475b38 Delete type=2 #17
+2024/11/05-20:57:14.184987 7f127f475b38 Manual compaction at level-1 from '!scenes.walls!bXo1qrGsdCu5XpK3.zq6z4R64gpy7lURA' @ 219 : 0 .. '!scenes.walls!3t1Hs0WZCVXwgNfc.zq6z4R64gpy7lURA' @ 0 : 0; will stop at (end)
