@@ -1,15 +1,3 @@
-2024/12/01-04:17:53.463364 7f0aa188eb38 Recovering log #63
-2024/12/01-04:17:53.468913 7f0aa188eb38 Delete type=3 #61
-2024/12/01-04:17:53.468998 7f0aa188eb38 Delete type=0 #63
-2024/12/01-04:20:50.699456 7f059eac8b38 Level-0 table #69: started
-2024/12/01-04:20:50.709469 7f059eac8b38 Level-0 table #69: 331825 bytes OK
-2024/12/01-04:20:50.711769 7f059eac8b38 Delete type=0 #67
-2024/12/01-04:20:50.712011 7f059eac8b38 Manual compaction at level-0 from '!scenes!cCaK1HZVJ55I1FCb' @ 72057594037927935 : 1 .. '!scenes.walls!d89pLohsyAHn9W7M.zq6z4R64gpy7lURA' @ 0 : 0; will stop at (end)
-2024/12/01-04:20:50.712112 7f059eac8b38 Manual compaction at level-1 from '!scenes!cCaK1HZVJ55I1FCb' @ 72057594037927935 : 1 .. '!scenes.walls!d89pLohsyAHn9W7M.zq6z4R64gpy7lURA' @ 0 : 0; will stop at '!scenes.walls!ePQUlr6HvcYNAwhB.ztYfCqDrLyJX38Nt' @ 13359 : 0
-2024/12/01-04:20:50.712122 7f059eac8b38 Compacting 1@1 + 1@2 files
-2024/12/01-04:20:50.723885 7f059eac8b38 Generated table #70@1: 2438 keys, 269696 bytes
-2024/12/01-04:20:50.723895 7f059eac8b38 Compacted 1@1 + 1@2 files => 269696 bytes
-2024/12/01-04:20:50.725894 7f059eac8b38 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/12/01-04:20:50.725976 7f059eac8b38 Delete type=2 #65
-2024/12/01-04:20:50.726062 7f059eac8b38 Delete type=2 #69
-2024/12/01-04:20:50.726202 7f059eac8b38 Manual compaction at level-1 from '!scenes.walls!ePQUlr6HvcYNAwhB.ztYfCqDrLyJX38Nt' @ 13359 : 0 .. '!scenes.walls!d89pLohsyAHn9W7M.zq6z4R64gpy7lURA' @ 0 : 0; will stop at (end)
+2024/12/03-19:54:57.426800 7f0aa2091b38 Recovering log #77
+2024/12/03-19:54:57.431816 7f0aa2091b38 Delete type=3 #75
+2024/12/03-19:54:57.431848 7f0aa2091b38 Delete type=0 #77
