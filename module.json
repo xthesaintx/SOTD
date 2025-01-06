@@ -1,7 +1,7 @@
 {
   "id": "shadow-of-the-dragon",
   "title": "Shadow of the Dragon",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -53,6 +53,39 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "sotd-journals",
+      "label": "SOTD Journals",
+      "path": "packs/sotd-journals",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sotd-items",
+      "label": "SOTD Items",
+      "path": "packs/sotd-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sotd-creatures",
+      "label": "SOTD Creatures",
+      "path": "packs/sotd-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ]
 }
