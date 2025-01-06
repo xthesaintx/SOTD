@@ -3,7 +3,7 @@ Shadow of the Dragon - Map Module compendium of maps published on https://www.pa
 
 ### v1.1.1+ update
 Whispers of the Abyss compendiums added (Actor, Journal, Items) - an asset pack will need to be downloaded from patreon.
-This is built in D&D 3.3.1, a 4+ version will be released as a separate module.
+This is built in D&D 3.3.1, a 4.1+ version can be downloaded from: https://github.com/xthesaintx/woa
 
 Some spells are missing from the NPC as I have only included SRD spells (eg Mind Sliver is not on Iarno's sheet as it is in Tasha's but he has access to it)
 
