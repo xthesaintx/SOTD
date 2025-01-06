@@ -1,6 +1,10 @@
 # Shadow of the Dragon Maps - FoundryVTT Module
 Shadow of the Dragon - Map Module compendium of maps published on https://www.patreon.com/c/wgtngm
 
+### v1.1 update
+Whispers of the Abyss compendiums added (Actor, Journal, Items) - an asset pack will need to be downloaded from patreon.
+This is built in D&D 3.3.1, a 4+ version will be released as a separate module.
+
 ## Requirements
 The following modules are required:
 * Tagger
